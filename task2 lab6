@@ -1,3 +1,5 @@
+#Name: Ali Faizan Malik
+Rollno: 281136506
 #TASK 2
 from node import Node
 class SinglyLinkedList:
