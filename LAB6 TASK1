@@ -1,0 +1,8 @@
+Name: Ali Faizan Malik
+Roll no: 281136506
+DSA
+#TASK 1
+class Node:
+    def __init__(self,data):
+        self.data = data
+        self.next = None
